@@ -115,7 +115,7 @@ export default function Home() {
               width: "90%",
             }}
             component="img"
-            src="LandingScotty.png"
+            src="landingScotty.png"
           />
         </Stack>
       </Stack>
